@@ -1,0 +1,12 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Ultoria Oyun Rehberi
+  structure:
+    - type: space
+      key: ultoria-tr
+      title: Türkçe
+      path: tr
+      default: true
+      content:
+        directory: ./
+        language: tr
