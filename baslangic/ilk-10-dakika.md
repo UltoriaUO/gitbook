@@ -10,7 +10,7 @@ description: Ultima Online'a ilk kez başlayanlar için Ultoria'da ilk 10 dakika
 
 Oyun dünyasına girdikten sonra karakterini bul. Binalara, yollara ve yakındaki kişilere bak. Bilgisayarın yönettiği kişilere **NPC** denir. Bankacı ve satıcılar buna örnektir.
 
-![Ultoria oyun ekranı ve başlangıç çevresi](../.gitbook/assets/tr/baslangic-cevresi.png)
+![Britain bankasının önünde Blackrock zırhlı örnek karakter ve şehir görünümü](../.gitbook/assets/tr/baslangic-cevresi.png)
 
 *Yürümeye başlamadan önce bulunduğun yeri tanı. Dönüş yolunu hatırlamana yardımcı olacak bir bina seç.*
 

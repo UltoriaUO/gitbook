@@ -6,7 +6,7 @@ description: Ultima Online nasıl kontrol edilir? Ultoria'da yürüme, çift tı
 
 **Yürümek için farenin sağ düğmesini, eşya kullanmak için çift tıklamayı kullan.** İlk olarak sakin bir yerde yürüme ve durma alıştırması yap.
 
-![Ultoria'da karakterin ve yürüyeceğin başlangıç çevresinin yakın görünümü](../.gitbook/assets/tr/baslangic-cevresi.png)
+![Ultoria'da Blackrock setli Aras'ın ve Britain bankası çevresinin yakın görünümü](../.gitbook/assets/tr/baslangic-cevresi.png)
 
 *Oyun alanı dünyayı gösterir. Pencere açmak için üst menüde Karakter, Envanter ve Günlük düğmelerini kullanırsın.*
 
@@ -23,7 +23,7 @@ Sağ düğme birçok oyun penceresini de kapatır. Yürümek isterken bir pencer
 
 ## Sık kullanacağın pencereler
 
-![ClassicUO karakter panelindeki Türkçe düğmelerin saydam arka planlı örneği](../.gitbook/assets/tr/karakter-transparan.png)
+![Aras, Büyükusta Kılıççı; aynı Blackrock set, kalkan ve katanayla Türkçe karakter penceresi](../.gitbook/assets/tr/karakter-transparan.png)
 
 *Karakter penceresinin örnek görünümü. Çerçevenin içi opak siyah, yalnızca dışı saydamdır. Beceriler, Ayarlar, Durum ve Barış düğmelerini burada bulursun.*
 

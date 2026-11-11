@@ -8,7 +8,7 @@ description: Ultoria Oyun Rehberi. 58 becerinin kullanımı, 8 büyü kitabı, e
 
 Hiç oynamadıysan [ilk 10 dakika](baslangic/ilk-10-dakika.md) sayfasıyla başla. Her şeyi bir günde öğrenmen gerekmez. Önce yürümeyi, çantanı açmayı ve bankanı kullanmayı dene.
 
-![Ultoria'da yeni bir karakterin oyun dünyası](.gitbook/assets/tr/baslangic-cevresi.png)
+![Britain'da Blackrock zırh, kalkan ve katana kuşanmış örnek karakter Aras](.gitbook/assets/tr/baslangic-cevresi.png)
 
 *Ekranın ortasındaki karakter sensin. İlk hedefin çevreni tanımak ve eşyalarını bulmak.*
 
